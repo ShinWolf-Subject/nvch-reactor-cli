@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+require('dotenv').config();
 const { auth, validateUrl, getPackageInfo } = require('nvch-reactor');
 const readline = require('readline');
 const fs = require('fs').promises;

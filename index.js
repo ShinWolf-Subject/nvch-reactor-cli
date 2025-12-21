@@ -670,6 +670,12 @@ class NVCHCLI {
     this.log('  • Statistics & Analytics', 'white');
     this.log('  • URL validation', 'white');
     console.log();
+    this.log('  Follow creator:', 'cyan');
+    this.log('  • GitHub: ShinWolf-Subject', 'white');
+    this.log('  • Facebook: shin.wolford.ken', 'white');
+    this.log('  • Telegram: Nine12fq', 'white');
+    this.log('  • WhatsApp: https://whatsapp.com/channel/0029VbBjzDbIHphQ1YNtTh13', 'white');
+    console.log();
     this.log('  © 2025 Nine', 'dim');
     this.log('═════════════════════════════════════════', 'blue');
 

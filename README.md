@@ -4,7 +4,7 @@ Tool CLI menggunakan NvCH Reactor
 
 ## How to use?
 ```bash
-npm i nvch-reactor readline
+npm i nvch-reactor readline dotenv
 
 chmod +x index.js
 ./index.js
@@ -12,4 +12,4 @@ chmod +x index.js
 
 **© 2025 Nine**, made with ❔ for the ❔
 
-# 🗿
+### 🗿
